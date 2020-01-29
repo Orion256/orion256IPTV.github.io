@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Детский мир
+http://50.7.220.130:8081/detmir/index.m3u8?wmsAuthSign=b11137355e58ee0e429304af3612b137-1578243507-381i48i921i13
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",1+1
+http://50.7.220.130:8081/1pl1/index.m3u8?wmsAuthSign=85c2c7207fb83ce63bda5b47b164e0b5-1577724182-381i48i921i13
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",ICTV
+http://50.7.220.130:8081/ictv/index.m3u8?wmsAuthSign=5246591de929b7a178808b9fafc20fb2-1578229476-381i48i921i13
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Украина
+http://163.172.179.78:8081/tv/ukraina/chunks.m3u8?nimblesessionid=363649
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Интер
+http://50.7.220.130:8081/inter/index.m3u8?wmsAuthSign=6c31012a39f2a3f9d3c917dde7483f48-1578243595-381i48i921i13
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",2+2
+http://50.7.220.130:8081/2pl2/index.m3u8?wmsAuthSign=0b19d405164aff477370ee9830787669-1580229147-381i48i921i13
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Enter-фильм
+http://50.7.172.58:8081/529/index.m3u8?wmsAuthSign=1580293626p381i48i921i13S773cb6ceac529723357f254e748d12f7
