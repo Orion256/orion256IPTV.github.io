@@ -6,7 +6,7 @@ http://50.7.220.130:8081/1pl1/index.m3u8?wmsAuthSign=85c2c7207fb83ce63bda5b47b16
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",ICTV
 http://50.7.220.130:8081/ictv/index.m3u8?wmsAuthSign=5246591de929b7a178808b9fafc20fb2-1578229476-381i48i921i13
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Украина
-http://163.172.179.78:8081/tv/ukraina/l_23593_42253643_126.ts?nimblesessionid=368666
+https://sportbox.ws/lba/MmFjZWI5MDBkMWVkYTYxYWEyYTg5NTJmZjFhNWU0MDM=/g8/ukrainetv.m3u8?token=MmFjZWI5MDBkMWVkYTYxYWEyYTg5NTJmZjFhNWU0MDM=&id=NGNlMTZlYjFmNWZmY2U1NzNiMzIzNGU2N2M3Yzg3OGY=&vip=1580298500&dip=YjZjNDhhYTcwZjZlOThmNTI4ZGVmNWI5Y2JiMWQ4NGM=&pip=MDU3OTk5MzZmNzU1OGUxN2ZlYzE0NzAxZmVjOTZiYjU=&hip=Yjc2ZTM0OGMwMDA2YzQwNjI4ZTUxOGEzMTBmY2M2Nzk=
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Интер
 http://50.7.220.130:8081/inter/index.m3u8?wmsAuthSign=6c31012a39f2a3f9d3c917dde7483f48-1578243595-381i48i921i13
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",2+2
