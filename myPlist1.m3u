@@ -1,0 +1,23 @@
+  
+#EXTM3U
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Детский мир
+http://50.7.220.130:8081/detmir/index.m3u8?wmsAuthSign=b11137355e58ee0e429304af3612b137-1578243507-381i48i921i13
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",1+1
+http://50.7.220.130:8081/1pl1/index.m3u8?wmsAuthSign=85c2c7207fb83ce63bda5b47b164e0b5-1577724182-381i48i921i13
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",ICTV
+http://50.7.220.130:8081/ictv/index.m3u8?wmsAuthSign=5246591de929b7a178808b9fafc20fb2-1578229476-381i48i921i13
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Украина
+http://193.46.210.28/stream/ha2wvav5qu2itmqy5qrqjxiidizepqfgvn29sefyckd55ierbizr69yz8dx75xmq4pksrydh38sxdtyke47g2y3vfimf6mdxpmcyh4xi8hb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Интер
+http://50.7.220.130:8081/inter/index.m3u8?wmsAuthSign=6c31012a39f2a3f9d3c917dde7483f48-1578243595-381i48i921i13
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",2+2
+http://50.7.220.130:8081/2pl2/index.m3u8?wmsAuthSign=0b19d405164aff477370ee9830787669-1580229147-381i48i921i13
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Enter-фильм
+http://193.46.210.28/stream/t69uxcvfgii8fc57dzhrvrkf8h9tmu76sidwg5zkd98sfd6kj5bjdw8dvrsjkhcf85zif2i55wz7k4akwfc73ipmj5kgp6mdhaj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",FILMUADRAMA
+http://193.46.210.28/stream/ah8zjmht99tjy9ygniuytjv2gffgan8uex2gnp889m4at7h7bmxewc9wun78zhim66kihn9r8q6qesvnd85hd2m4haj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Советское кино
+https://mhd.limehd.tv/p/bmoLL65e4QXJ6BSpwMsCjA,1580577540/streaming/sovietmovs/324/1/tracks-v2a1/mono.m3u8
+
+
+
