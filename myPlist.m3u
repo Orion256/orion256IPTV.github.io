@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Детский мир
-http://50.7.220.130:8081/detmir/index.m3u8?wmsAuthSign=b11137355e58ee0e429304af3612b137-1578243507-381i48i921i13
+http://50.7.220.130:8081/detmir/index.m3u8?wmsAuthSign=76da6ee89d415bc9d2a8187e2c69bcdb-1580589834-381i48i921i13
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",1+1
 http://50.7.220.130:8081/1pl1/index.m3u8?wmsAuthSign=85c2c7207fb83ce63bda5b47b164e0b5-1577724182-381i48i921i13
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",ICTV
