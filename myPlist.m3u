@@ -6,7 +6,7 @@ http://50.7.220.130:8081/1pl1/index.m3u8?wmsAuthSign=85c2c7207fb83ce63bda5b47b16
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",ICTV
 http://50.7.220.130:8081/ictv/index.m3u8?wmsAuthSign=5246591de929b7a178808b9fafc20fb2-1578229476-381i48i921i13
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Украина
-https://kv-g50-mc06.ollcdn.net/trku-live/20/b791711418ada9c3f77c4f95c3d6a865/5e726fb0/ukrainahd/ukrainahd20200303T0836564.m3u8
+http://163.172.179.78:8081/tv/ukraina/chunks.m3u8?nimblesessionid=1496325
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Интер
 http://50.7.220.130:8081/inter/index.m3u8?wmsAuthSign=6c31012a39f2a3f9d3c917dde7483f48-1578243595-381i48i921i13
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",2+2
