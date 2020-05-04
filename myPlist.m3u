@@ -6,7 +6,7 @@ http://50.7.220.130:8081/1pl1/index.m3u8?wmsAuthSign=85c2c7207fb83ce63bda5b47b16
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",ICTV
 http://50.7.220.130:8081/ictv/index.m3u8?wmsAuthSign=5246591de929b7a178808b9fafc20fb2-1578229476-381i48i921i13
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Украина
-https://kv-k21-mc03.ollcdn.net/trku-live/20/f6d341536435f33159550e9bb5c402e7/5eb05820/ukrainahd/ukrainahd20200501T2235474.m3u8
+https://sportbar.biz/lba/MWM4YjIzMWJjZDRkYTlmZTg3MGIzMTliNjVmNDc0NWI=/g8/ukrainetv.m3u8?token=MWM4YjIzMWJjZDRkYTlmZTg3MGIzMTliNjVmNDc0NWI=&id=MDI3MGU3OGRmNzkzNTBlOGJlNjM5MGViNmI3OWJhM2Y=&vip=1588595881&dip=OGE4YzUzNmIyODc5YTc1M2I0MDhjYmY0Nzg4YTE2MGQ=&pip=ZmY3NTY0NTExN2JjODkyNmE2MjQ3YzNhYjNlOWQ5MzU=&hip=MWY4OGZjNDY1NTMwOThlYzk5MmY1YmZjYjA2MzFlYjg=
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Интер
 http://50.7.220.130:8081/inter/index.m3u8?wmsAuthSign=6c31012a39f2a3f9d3c917dde7483f48-1578243595-381i48i921i13
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",2+2
