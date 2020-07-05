@@ -5,7 +5,7 @@ http://50.7.220.130:8081/detmir/index.m3u8?wmsAuthSign=61291042af76bdd95c99b66ec
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",1+1
 http://50.7.222.90:8081/1pl1/index.m3u8?wmsAuthSign=64f0fccd60f52d7e31d95cfa2d719c8c-1592991656-331i78i921i13
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",ICTV
-http://50.7.222.90:8081/112/index.m3u8?wmsAuthSign=0febb1dcb15cb0fc4dddb3b425d595f7-1592991719-331i78i921i13
+http://50.7.220.130:8081/ictv/index.m3u8?wmsAuthSign=d50efa57c3ee9590790919d97ae1de06-1593940358-331i78i921i13
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Украина
 https://sportbar.biz/lba/NDQ3ZWY0NjcwNGU0MTczYWY4MjIwMzkwY2U1MTcxMTA=/g8/ukrainetv.m3u8?token=NDQ3ZWY0NjcwNGU0MTczYWY4MjIwMzkwY2U1MTcxMTA=&id=NzdlNTBmZjNlMzBkNjJkYWVkOGYyNDJiZjNiNTFkNTc=&vip=1592967085&dip=ZjY0NjVkMjY3ZmUyNDA1MjkwYTlhNjcwNGM3NWZjNmE=&pip=NjQ0ZTVmMzM4MGZlOWUzMmJkZTMxZThiZGMxMzJjYmI=&hip=ZGYxZjM1MThkMDIyZjMzYWIxYTU4MjgzNTgzNzUyZmY=
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Интер
