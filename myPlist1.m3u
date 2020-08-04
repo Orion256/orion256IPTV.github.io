@@ -7,7 +7,7 @@ http://50.7.222.90:8081/1pl1/index.m3u8?wmsAuthSign=64f0fccd60f52d7e31d95cfa2d71
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",ICTV
 http://50.7.220.130:8081/ictv/index.m3u8?wmsAuthSign=cdeeb9457ddeb835b4022329583d27b1-1595749768-331i78i921i13
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Украина
-http://178.33.37.66/stream/RC2KUQ5M82/167.m3u8
+https://sport7.biz/lba/MDUyYWNlNGIyZWU1NzFkMDY4M2YyOTJkNmNhNGYwZTU=/g8/ukrainetv.m3u8?token=MDUyYWNlNGIyZWU1NzFkMDY4M2YyOTJkNmNhNGYwZTU=&id=YTJmZjAwNmQ3MzgwYTRhNThjMzkxN2QwNmFlMWNkZjQ=&vip=1596540476&dip=ZjNlMzYwN2Q2ZWEzNGIxNzQyN2FhZTFmNWQ1MzQyYTY=&pip=NjQ0ZTVmMzM4MGZlOWUzMmJkZTMxZThiZGMxMzJjYmI=&hip=ZGYxZjM1MThkMDIyZjMzYWIxYTU4MjgzNTgzNzUyZmY=
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",Интер
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8?wmsAuthSign=c2VydzJrU3V3PT0mdmFPTIwMA==
 #EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="" group-title="",2+2
